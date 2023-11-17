@@ -201,8 +201,9 @@ $RECYCLE.BIN/
 # Config files with credintials
 config.txt
 config.csv
+<<<<<<< HEAD
 crime_data.csv
-
+=======
 # */config.csv  could remove all config files from syncing with github
 # Win merge
 *.bak
